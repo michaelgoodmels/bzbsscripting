@@ -1,4 +1,4 @@
-# Script-Name: leerzeichen
+# Script-Name: leerzeichen.sh
 # Version    : 0.1
 # Autor      : Michael Good
 # Datum      : 23.04.2023
