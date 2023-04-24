@@ -1,0 +1,1 @@
+Sort -k 3 Telefonliste.txt
