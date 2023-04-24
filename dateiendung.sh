@@ -1,7 +1,7 @@
 # Script-Name: dateiendung.sh
 # Version    : 0.1
 # Autor      : Michael Good
-# Datum      : 23.04.2023
+# Datum      : 24.04.2023
 # Lizenz     : ...
 #
 #!/bin/sh
